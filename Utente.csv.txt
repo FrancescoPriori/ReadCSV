@@ -1,0 +1,2 @@
+﻿Nome;Cognome;email
+Francesco;Priori;@studenti.ittsrimini.edu.it
